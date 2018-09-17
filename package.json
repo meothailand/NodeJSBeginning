@@ -1,14 +1,24 @@
 {
-  "name": "hello_world",
+  "name": "nodejsbeginning",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeJS Beginner",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "loadsh": "0.0.2"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meothailand/NodeJSBeginning.git"
+  },
+  "author": "meothailand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meothailand/NodeJSBeginning/issues"
+  },
+  "homepage": "https://github.com/meothailand/NodeJSBeginning#readme"
 }
