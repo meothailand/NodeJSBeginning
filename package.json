@@ -4,7 +4,9 @@
   "description": "NodeJS Beginner",
   "main": "app.js",
   "dependencies": {
-    "loadsh": "0.0.2"
+    "loadsh": "0.0.2",
+    "lodash.uniq": "^4.5.0",
+    "yargs": "^12.0.2"
   },
   "devDependencies": {},
   "scripts": {
